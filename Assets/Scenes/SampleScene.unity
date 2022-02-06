@@ -1199,6 +1199,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25c0c499eb1051e46a4cab4c9857c7ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hasPacageColor:
+    serializedVersion: 2
+    rgba: 4294121096
+  noPacageColor:
+    serializedVersion: 2
+    rgba: 4294967295
   destroyTime: 0.5
 --- !u!50 &205739132
 Rigidbody2D:
